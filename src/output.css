@@ -670,8 +670,8 @@ video {
   margin-top: 20px;
 }
 
-.mt-\[300px\] {
-  margin-top: 300px;
+.mt-\[250px\] {
+  margin-top: 250px;
 }
 
 .mt-\[30px\] {
@@ -959,6 +959,11 @@ video {
   padding-bottom: 1rem;
 }
 
+.py-5 {
+  padding-top: 1.25rem;
+  padding-bottom: 1.25rem;
+}
+
 .py-6 {
   padding-top: 1.5rem;
   padding-bottom: 1.5rem;
@@ -1002,6 +1007,16 @@ video {
 .py-\[70px\] {
   padding-top: 70px;
   padding-bottom: 70px;
+}
+
+.py-\[\] {
+  padding-top: ;
+  padding-bottom: ;
+}
+
+.py-\[10px\] {
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 
 .pr-2 {
