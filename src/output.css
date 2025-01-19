@@ -881,11 +881,11 @@ video {
 }
 
 .bg-backgroundimg {
-  background-image: url('/images/element.png');
+  background-image: url('../images/element.png');
 }
 
 .bg-backimg {
-  background-image: url('/images/image.jpg');
+  background-image: url('../images/image.jpg');
 }
 
 .bg-cover {
@@ -974,6 +974,11 @@ video {
   padding-bottom: 1.75rem;
 }
 
+.py-\[10px\] {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
 .py-\[120px\] {
   padding-top: 120px;
   padding-bottom: 120px;
@@ -1007,16 +1012,6 @@ video {
 .py-\[70px\] {
   padding-top: 70px;
   padding-bottom: 70px;
-}
-
-.py-\[\] {
-  padding-top: ;
-  padding-bottom: ;
-}
-
-.py-\[10px\] {
-  padding-top: 10px;
-  padding-bottom: 10px;
 }
 
 .pr-2 {
