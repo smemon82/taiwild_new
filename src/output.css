@@ -881,11 +881,11 @@ video {
 }
 
 .bg-backgroundimg {
-  background-image: url('././/images/element.png');
+  background-image: url('images/element.png');
 }
 
 .bg-backimg {
-  background-image: url('././/images/image.jpg');
+  background-image: url('.images/image.jpg');
 }
 
 .bg-cover {
